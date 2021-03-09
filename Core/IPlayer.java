@@ -7,7 +7,7 @@ import Deck.*;
 /**
  * This interface contains all the methods required by any type of Player object. It extends the location interface,
  * and any classes implementing IPlayer will implement the methods in ILocation.
- * @author Yacine Belaifa
+ 
  */
 public interface IPlayer extends ILocation
 {

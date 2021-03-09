@@ -4,7 +4,6 @@ import Core.IJewel;
 
 /**
  * This is a factory class that constructs a Jewel object. 
- * @author Yacine Belaifa
  */
 
 public class JewelFactory 

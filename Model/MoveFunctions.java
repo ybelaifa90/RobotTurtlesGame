@@ -7,9 +7,8 @@ import Deck.LaserCard;
 public class MoveFunctions
 {
   /*
-Yacine Belaifa
 
-MoveFunctions.java
+  MoveFunctions.java
 */
 
   public MoveFunctions()// constructor 

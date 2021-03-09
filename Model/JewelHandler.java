@@ -12,7 +12,6 @@ import Jewel.JewelFactory;
 
 /**
  * This is a class used by the GameModel to deal with Jewel objects. 
- * @author Yacine Belaifa
  */
 public class JewelHandler 
 {

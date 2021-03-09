@@ -3,7 +3,7 @@ package Core;
 /**
  * This is an interface designed to update and retrieve the location 
  * (represented by a 2-element int array) of an Object it implements.
- * @author Yacine Belaifa
+ 
  */
 public interface ILocation 
 {

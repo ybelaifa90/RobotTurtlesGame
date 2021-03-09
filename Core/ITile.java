@@ -4,7 +4,6 @@ package Core;
 /**
  * This interface contains all the methods required by any type of Tile object. It extends the location interface,
  * and any classes implementing IJewel will implement the methods in ILocation.
- * @author Yacine Belaifa
  */
 public interface ITile extends ILocation
 {

@@ -2,7 +2,6 @@ package Model;
 
 /**
  * Class which models a Portal Tile - a tile that transports you to another location if you land on it.
- * @author  Yacine Belaifa
  */
 public class Portal
 {

@@ -4,7 +4,6 @@ import Core.IJewel;
 
 /**
  * Concrete class to model a magenta-colored Jewel.
- * @author Yacine Belaifa
  */
 public class MagentaJewel implements IJewel
 {

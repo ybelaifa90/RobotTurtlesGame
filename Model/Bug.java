@@ -4,7 +4,6 @@ import Core.IPlayer;
 
 /**
  * This class is used to model the Bug object.
- * @author Yacine Belaifa
  */
 public class Bug 
 {

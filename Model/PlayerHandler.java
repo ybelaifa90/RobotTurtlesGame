@@ -11,7 +11,6 @@ import Player.PlayerFactory;
 
 /**
  * This is a class used by the GameModel to deal with Player objects. 
- * @author Yacine Belaifa
  */
 public class PlayerHandler 
 {

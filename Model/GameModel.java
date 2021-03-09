@@ -10,7 +10,6 @@ import java.util.Arrays;
 
 /**
  * This class represents all the game data in our program.
- * @author Yacine Belaifa
  */
 
 public class GameModel  

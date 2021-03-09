@@ -2,7 +2,6 @@ package Model;
 
 /**
  * This class is used to model the game board.
- * @author Yacine Belaifa
  */
 public class Board 
 {

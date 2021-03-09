@@ -1,6 +1,5 @@
 package Deck;
 /*
-Yacine Belaifa
 Deck.java
 */
 public class Deck 

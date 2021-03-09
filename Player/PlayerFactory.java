@@ -8,7 +8,6 @@ public class PlayerFactory
 
 /**
  * This is a factory class that constructs a Player object. 
- * @author Yacine Belaifa
  */
     
     /**

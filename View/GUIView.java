@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.lang.reflect.Field;
 import javax.imageio.ImageIO;
 /*
-Yacine Belaifa
 GUIView.java
 */
 //Long story short, we MUST have a way for the GUI to be updating (and repaint to be called) WHILE we are calling TakePlayerTurn - this approach isnt working

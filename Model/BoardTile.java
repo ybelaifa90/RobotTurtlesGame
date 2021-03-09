@@ -5,7 +5,6 @@ import Core.ITile;
 /**
  * This class implements the Tile interface, and constructs a concrete 
  * BoardTile object that will make up a piece of the game board.
- * @author Yacine Belaifa
  */
 public class BoardTile implements ITile
 {

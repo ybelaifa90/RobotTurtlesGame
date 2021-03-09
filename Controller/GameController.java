@@ -8,10 +8,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.HashSet;
 
-/**
- * This class takes care of communication between the GameModel and the View (both the CommandLineView and the GUIView)
- * @author Yacine Belaifa
- */
 
 
 public class GameController
